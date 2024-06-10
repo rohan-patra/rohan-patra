@@ -14,6 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rohan-patra&icon=0&color=0)](https://visitcount.itsvg.in)
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: fit; background-size: fit; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/rohan-patra/rohan-patra/main/Imgur%20magic.png');]{x0000}$}
