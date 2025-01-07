@@ -1,9 +1,6 @@
 ### Inspiration
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Random Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ### Stats
 <!--![](https://github-readme-stats.vercel.app/api?username=rohan-patra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohan-patra&theme=dark&hide_border=false)<br/>-->
